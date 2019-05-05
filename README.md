@@ -1,6 +1,6 @@
 # Python_DataAnalytics
 파이썬으로 데이터 주무르기(민형기 저) 실습
-
+\
 
 1장 : 서울시 구별 CCTV 현황 분석\
 1-1 CCTV 현황과 인구 현황 데이터 구하기\
@@ -14,3 +14,6 @@
 
 1장 실습코드 : \
 https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/01.%20Basic%20of%20Python%2C%20Pandas%20and%20Matplotlib%20via%20analysis%20of%20CCTV%20in%20Seoul.ipynb
+
+1장 내가 만든 코드: \
+https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/my_code/01.%20analysis%20of%20bitcoin%27s%20price%20and%20bitcoin%27s%20google%20trend.ipynb
