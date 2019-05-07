@@ -46,3 +46,9 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 3-9 맛집 위치를 지도에 표기하기\
 3-10 네이버 영화 평점 기준 영화의 평점 변화 확인하기\
 3-11 영화별 날짜 변화에 따른 평점 변화 확인하기
+
+3장 실습코드 1\
+https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/03-1.%20Web%20Parsing%20Example.ipynb
+
+3장 실습코드 2\
+https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
