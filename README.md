@@ -33,3 +33,16 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 
 2장 실습코드\
 https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/02.%20Analysis%20for%20crime%20in%20Seoul.ipynb
+
+3장 : 시카고 샌드위치 맛집 분석\
+3-1 웹 데이터를 가져오는 Beautiful Soup 익히기\
+3-2 크롬 개발자 도구를 이용해서 원하는 태그 찾기\
+3-3 실전: 시카고 샌드위치 맛집 소개 사이트에 접근하기\
+3-4 접근한 웹 페이지에서 원하는 데이터 추출하고 정리하기\
+3-5 다수의 웹 페이지에 자동으로 접근해서 원하는 정보 가져오기\
+3-6 Jupyter Notebook에서 상태 진행바를 쉽게 만들어주는 tqdm 모듈\
+3-7 상태 진행바까지 적용하고 다시 샌드위치 페이지 50개에 접근하기\
+3-8 50개 웹 페이지에 대한 정보 가져오기\
+3-9 맛집 위치를 지도에 표기하기\
+3-10 네이버 영화 평점 기준 영화의 평점 변화 확인하기\
+3-11 영화별 날짜 변화에 따른 평점 변화 확인하기
