@@ -52,3 +52,6 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 
 3장 실습코드 2\
 https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
+
+3장 내가 만든 코드 (샌프란시스코 한식 맛집 15개 지도에 표시하기)\
+https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/my_code/03.%20The%2015%20Best%20Korean%20Restaurants%20in%20San%20Francisco.ipynb
