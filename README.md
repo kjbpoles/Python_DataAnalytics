@@ -55,3 +55,11 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 
 3장 내가 만든 코드 (샌프란시스코 한식 맛집 15개 지도에 표시하기)\
 https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/my_code/03.%20The%2015%20Best%20Korean%20Restaurants%20in%20San%20Francisco.ipynb
+
+4장 : 셀프 주유소는 정말 저렴할까\
+4-1 Selenium 사용하기\
+4-2 서울시 구별 주유소 가격 정보 얻기\
+4-3 구별 주유 가격에 대한 데이터의 정리\
+4-4 셀프 주유소는 정말 저렴한지 boxplot으로 확인하기\
+4-5 서울시 구별 주유 가격 확인하기\
+4-6 서울시 주유 가격 상.하위 10개 주유소 지도에 표기하기
