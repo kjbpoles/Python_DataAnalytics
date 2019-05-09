@@ -63,3 +63,6 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 4-4 셀프 주유소는 정말 저렴한지 boxplot으로 확인하기\
 4-5 서울시 구별 주유 가격 확인하기\
 4-6 서울시 주유 가격 상.하위 10개 주유소 지도에 표기하기
+
+4장 실습코드\
+https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/04.%20Self%20Oil%20Station%20price.ipynb
