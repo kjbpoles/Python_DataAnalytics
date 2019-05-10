@@ -66,3 +66,14 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 
 4장 실습코드\
 https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/04.%20Self%20Oil%20Station%20price.ipynb
+
+5장 : 우리나라 인구 소멸 위기 지역 분석\
+5-1 목표 명확히 하기\
+5-2 인구 데이터 확보하고 정리하기\
+5-3 인구 소멸 위기 지역 계산하고 데이터 정리하기\
+5-4 대한민국 지도 그리는 방법에 대한 소개\
+5-5 지도 시각화를 위해 지역별 고유 ID 만들기\
+5-6 Cartogram으로 우리나라 지도 만들기\
+5-7 인구 현황 및 인구 소멸 지역 확인하기\
+5-8 인구 현황에서 여성 인구 비율 확인하기\
+5-9 Folium에서 인구 소멸 위기 지역 표현하기
