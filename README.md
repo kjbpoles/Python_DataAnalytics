@@ -67,7 +67,7 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 4장 실습코드\
 https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/04.%20Self%20Oil%20Station%20price.ipynb
 
-4장 내가 만든 코드 (Riot API 로그인하기(미완성))\
+4장 내가 만든 코드 (Riot API 로그인하기(진행중))\
 https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/my_code/04.%20Riot%20API.ipynb
 
 5장 : 우리나라 인구 소멸 위기 지역 분석\
