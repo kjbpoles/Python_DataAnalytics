@@ -80,3 +80,6 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 5-7 인구 현황 및 인구 소멸 지역 확인하기\
 5-8 인구 현황에서 여성 인구 비율 확인하기\
 5-9 Folium에서 인구 소멸 위기 지역 표현하기
+
+5장 실습코드\
+https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/05.%20population%20using%20Korea%20Map.ipynb
