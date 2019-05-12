@@ -83,3 +83,9 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 
 5장 실습코드\
 https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/05.%20population%20using%20Korea%20Map.ipynb
+
+6장 : 19대 대선 결과 분석\
+6-1 Selenium과 Beautiful Soup을 이용한 데이터 획득 준비 작업\
+6-2 19대 대선 개표 결과 데이터 획득하기\
+6-3 각 후보의 득표율과 지역 ID 정리\
+6-4 19대 대선 결과 득표율 시각화하기
