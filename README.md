@@ -92,3 +92,9 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 
 6장 실습코드\
 https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/06.%20Election%20Result.ipynb
+
+7장 : 시계열 데이터를 다뤄보자\
+7-1 Numpy의 polyfit으로 회귀(regression) 분석하기\
+7-2 Prophet 모듈을 이용한 forecast 예측\
+7-3 Seasonal 시계열 분석으로 주식 데이터 분석하기\
+7-4 Growth Model과 Holiday Forecast
