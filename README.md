@@ -98,3 +98,6 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 7-2 Prophet 모듈을 이용한 forecast 예측\
 7-3 Seasonal 시계열 분석으로 주식 데이터 분석하기\
 7-4 Growth Model과 Holiday Forecast
+
+7장 실습코드\
+https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/07.%20Time%20Series%20Data%20Handle.ipynb
