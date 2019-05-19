@@ -101,3 +101,13 @@ https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/Da
 
 7장 실습코드\
 https://nbviewer.jupyter.org/github/kjbpoles/Python_DataAnalytics/blob/master/DataScience/source_code/07.%20Time%20Series%20Data%20Handle.ipynb
+
+8장 : 자연어 처리 시작하기\
+8-1 한글 자연어 처리 기초 - KoNLPy 및 필요 모듈의 설치\
+8-2 한글 자연어 처리 기초\
+8-3 워드 클라우드\
+8-4 육아휴직 관련 법안에 대한 분석\
+8-5 Naive Bayes Classifier의 이해 - 영문\
+8-6 Naive Bayes Classifier의 이해 - 한글\
+8-7 문장의 유사도 측정하기\
+8-8 여자친구 선물 고르기
